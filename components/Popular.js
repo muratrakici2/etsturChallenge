@@ -6,7 +6,7 @@ import { useRouter } from "next/router";
 const Popular = ({ data }) => {
   const datas = data
   const [number, setNumber] = useState(1);
-  const [popular, setPopular] = useState(data[number]);
+  const [popular, setPopular] = useState(datas[1]);
   const router = useRouter();
 
   useEffect(() => {
@@ -23,7 +23,7 @@ const Popular = ({ data }) => {
       }
     }, 3000);
     return () => clearInterval(interval);
-  }, [number, popular]);
+  }, [number, popular,datas]);
   const change = (e) => {
     if (number === 1 && e === -1) {
       setNumber(3);
