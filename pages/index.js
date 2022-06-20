@@ -7,6 +7,7 @@ import moment from "moment";
 import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
 import Cart from "../components/Cart";
+import Popular from "../components/Popular";
 
 const { RangePicker } = DatePicker;
 
@@ -44,7 +45,7 @@ function Home({ data }) {
         </Space>
       </div>
       <Filter data={data} setActivity={(i) => setActivity(i)} />
-
+      <Popular data={data}/>
       <div className={styles.cartContainer}>
         {activity.map((event, index) => (
           <Cart key={index} activity={event} />
