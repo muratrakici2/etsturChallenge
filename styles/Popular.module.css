@@ -3,6 +3,7 @@
     width: 600px;
     background-color: aqua;
     position: relative;
+    cursor: pointer;
 }
 .title{
     position: absolute;

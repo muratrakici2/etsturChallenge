@@ -1,10 +1,12 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
 import styles from "../styles/Popular.module.css";
+import { useRouter } from "next/router";
 
 const Popular = ({ data }) => {
   const [number, setNumber] = useState(1);
   const [popular, setPopular] = useState(data[number]);
+  const router = useRouter();
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -20,7 +22,7 @@ const Popular = ({ data }) => {
       }
     }, 3000);
     return () => clearInterval(interval);
-  }, [number]);
+  }, [number, popular]);
   const change = (e) => {
     if (number === 1 && e === -1) {
       setNumber(3);
@@ -42,8 +44,13 @@ const Popular = ({ data }) => {
           width={697}
           height={392}
           layout="responsive"
+          alt="poster"
+          onClick={() => router.push(`/details/${popular.id}`)}
         />
-        <div className={styles.title}>
+        <div
+          onClick={() => router.push(`/details/${popular.id}`)}
+          className={styles.title}
+        >
           <p>{popular.title}</p>
           <p>{popular.place}</p>
         </div>
