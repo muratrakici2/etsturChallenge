@@ -22,7 +22,7 @@ const Popular = ({ data }) => {
       }
     }, 3000);
     return () => clearInterval(interval);
-  }, [number, popular]);
+  }, [number, popular,data]);
   const change = (e) => {
     if (number === 1 && e === -1) {
       setNumber(3);
