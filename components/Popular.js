@@ -4,6 +4,7 @@ import styles from "../styles/Popular.module.css";
 import { useRouter } from "next/router";
 
 const Popular = ({ data }) => {
+  const datas = data
   const [number, setNumber] = useState(1);
   const [popular, setPopular] = useState(data[number]);
   const router = useRouter();
@@ -12,17 +13,17 @@ const Popular = ({ data }) => {
     const interval = setInterval(() => {
       if (number < 1) {
         setNumber(3);
-        setPopular(data[3]);
+        setPopular(datas[3]);
       } else if (number >= 3) {
         setNumber(1);
-        setPopular(data[1]);
+        setPopular(datas[1]);
       } else {
         setNumber((s) => s + 1);
-        setPopular(data[number + 1]);
+        setPopular(datas[number + 1]);
       }
     }, 3000);
     return () => clearInterval(interval);
-  }, [number, popular,data]);
+  }, [number, popular]);
   const change = (e) => {
     if (number === 1 && e === -1) {
       setNumber(3);
