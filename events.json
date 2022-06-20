@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "title": "Piraye",
+    "description": "Büyük Şair Nazım Hikmet, aralıklarla hapishanede geçirdiği 17 yıl boyunca eşi Piraye'ye yüzlerce mektup yazdı. Bu mektuplar sayesinde hüznünü, kavgasını, aşkını en doğal haliyle Piraye ile paylaştı. Piraye, kendisine yazılan bu mektupları Nazım'ın hapishanedeyken yapmış olduğu tahta bir bavulda uzun yıllar sakladı.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Kadıköy"
+    },
+    "place": "Tiyatro Dell'arte",
+    "address": "Rasimpaşa Mh. Uzun Hafız Sk. No: 57/A Yeldeğirmeni",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1505.6871274808134!2d29.027735!3d40.995181!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab86be41d4139%3A0xec8182080739654f!2zUmFzaW1wYcWfYSwgVXp1biBIYWbEsXogU2suIE5vOjU3LCAzNDcxNiBLYWTEsWvDtnkvxLBzdGFuYnVs!5e0!3m2!1str!2str!4v1655573340491!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/04052022175503-piraye.jpg",
+    "category": "tiyatro",
+    "startingDate": "2022-02-06",
+    "endDate": "2022-02-16",
+    "price": {
+      "price": "paid",
+      "front": 150,
+      "back": 100
+    },
+    "persons": [
+      "Tuba Karabey",
+      "Sinem Hacıoğlu",
+      "Sevi Cemre Cingirt",
+      "Selami Üstübi"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Taxim",
+    "description": "Bir araya gelmesi mümkün ama bir arada yaşaması imkansız olan bu insanların yolları, bir anda beliren “hayatta kalma” kavşağında sınava tabi tutulursa neler olur? “Taxim”, sistemin baskıcı düzeni ile kişisel bencilliklerin ve önceliklerin kesiştiği Araf’ın oyunu.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Şişli"
+    },
+    "place": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "address": "Taşkışla Caddesi, Harbiye",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24072.39072972387!2d28.99003!3d41.046061!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa73a3d0b8b295da9!2sCemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1655575102633!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/15042022155939-taxim-tiyatro-biletleri-passo.jpg",
+    "category": "tiyatro",
+    "startingDate": "2022-07-06",
+    "endDate": "2022-07-08",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": [
+      "Ali Gökmen Altuğ",
+      "Bennu Yıldırımlar",
+      "Doğan Şirin",
+      "Emrah Özertem"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Korkuyu Beklerken",
+    "description": "Korkularından başka silahı olmayan bir adamın, silahları parçalanana kadar mücadele ettiği bir kavga. Bu kavgada anlatılanlar için, aslında bir başka Tutunamayan'ın hikayesidir diyebiliriz. Zaman zaman bir rehber olarak kullanmaya çalıştığımız Tutunamayanlar'da, Oğuz Atay bu türün (disconnectus erectus) tanımı için şöyle demiş; Erkekleri, yalnız bırakıldıkları zaman acıklı sesler çıkarırlar. ",
+    "city": {
+      "province": "İstanbul",
+      "district": "Beşiktaş"
+    },
+    "place": "Zorlu PSM",
+    "address": "Zorlu Center, Levazım Mah. Koru Sok. No:2/PSM/70 Zincirlikuyu",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24064.7662288529!2d29.017279!3d41.066899!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8d8c665ab915f7de!2sZorlu%20Center!5e0!3m2!1str!2str!4v1655575422501!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/06062022171650-korkuyu-beklerken-passo-bilet.jpg",
+    "category": "tiyatro",
+    "startingDate": "2022-07-06",
+    "endDate": "2022-07-10",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": [
+      "Yağız Can Konyalı",
+      "Elif Gülalp",
+      "Sami Levi",
+      "Su Sonia Herring"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Medea Kali",
+    "description": "Medusa, Yunan mitolojisinde gözlerine bakanı taşa çeviren yılan saçlı kadın. Kali, Hint zaman ve kıyamet tanrıçası. Tek vücutta üç mitolojik figür, üç fantastik varlık... Arzulanan, aşık olunan ancak aşağılanan büyülü kadın. Aldatılan kraliçe, anne... Kendi mirasını korumaya çalışan bir savaşçı, doğuran ve yok eden tanrıça",
+    "city": {
+      "province": "İstanbul",
+      "district": "Beşiktaş"
+    },
+    "place": "Zorlu PSM",
+    "address": "Zorlu Center, Levazım Mah. Koru Sok. No:2/PSM/70 Zincirlikuyu",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24064.7662288529!2d29.017279!3d41.066899!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8d8c665ab915f7de!2sZorlu%20Center!5e0!3m2!1str!2str!4v1655575422501!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/20052022165847-aqaq.jpg",
+    "category": "tiyatro",
+    "startingDate": "2022-07-08",
+    "endDate": "2022-07-10",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": [
+      "Selçuk Yöntem",
+      "Okan Bayülgen",
+      "Özlem Öçalmaz",
+      "M.Coşkun Ülgen"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Etik Alkol",
+    "description": "Ömer Hayyam, Neyzen Tevfik, Can Yücel ve diğer ahlakı ile içenler. Özenle seçilen kelimeler ile başlayan sohbet, “ Dur öpücem!, Gel sarılıcam! “ lara dönüşüyorsa orada araştırılacak bir şey vardır. Araştırdık, bu alkol vücuda girdiğinde insana ne yapıyor da “ Dün ile ilgili hiçbir şey hatırlamıyorum. “ dedirtebiliyor. Nasıl oluyor da Ömer Hayyam’a kendisi ile ilgili övgüler yazdırabiliyor, Neyzen Tevfik’i komik hikayelerin içine itiyor, Can Yücel’e arkadaşlık ediyor?",
+    "city": {
+      "province": "İstanbul",
+      "district": "Kadıköy"
+    },
+    "place": "Moda Sahnesi",
+    "address": "Caferağa Mah. General Asım Gündüz Cad.(Bahariye Cad.) Halil Etham Sk.No: 34/2",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24093.98020667107!2d29.028518!3d40.987009!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x42b2727a24846638!2sModa%20Sahnesi!5e0!3m2!1str!2str!4v1655576243699!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/17012022222227-etik-alkol-passo.jpg",
+    "category": "tiyatro",
+    "startingDate": "2022-06-08",
+    "endDate": "2022-06-10",
+    "price": {
+      "price": "paid",
+      "front": 200,
+      "back": 100
+    },
+    "persons": ["Cansu Fırıncı"]
+  },
+  {
+    "id": 6,
+    "title": "Baharın Gelişi, Normandiya, 2020",
+    "description": "Zamanımızın en önemli ve yaratıcı sanatçılarından biri olarak kabul edilen David Hockney’nin eserleri, Baharın Gelişi, Normandiya, 2020 sergisi ile ilk defa Türkiye’ye geliyor.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Sarıyer"
+    },
+    "place": "Sakıp Sabancı Müzesi",
+    "address": "Sabancı Cad. No:42 Emirgan",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24050.613432348822!2d29.056944!3d41.105556!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa22a8eb0b445d84a!2zU2FrxLFwIFNhYmFuY8SxIE3DvHplc2k!5e0!3m2!1str!2str!4v1655628668042!5m2!1str!2str",
+    "image": "https://tiyatrolar.com.tr/files/exhibition/b/baharin-gelisi-normandiya-2020/gallery/7862/baharin-gelisi-normandiya-2020-7862.jpg",
+    "category": "resim",
+    "startingDate": "2022-06-12",
+    "endDate": "2022-06-17",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": ["David Hockney"]
+  },
+  {
+    "id": 7,
+    "title": "İzleyen Yüzler",
+    "description": "Müze Evliyagil, yeni dönemde 19.06.2021- 31.07.2022 tarihleri arasında İzleyen Yüzler sergisini ağırlamaya hazırlanıyor. Sergide, Müze Evliyagil Koleksiyonu’ndan bir araya gelen 38 sanatçının üretimlerine bu sanatçıların hayatlarından köşe taşı niteliğindeki anekdotlar ve belgeler de eşlik ediyor. İzleyen Yüzler Müze Evliyagil Koleksiyonu",
+    "city": {
+      "province": "Ankara",
+      "district": "Gölbaşı"
+    },
+    "place": "Müze Evliyagil",
+    "address": "Turgut Özal Bulvarı Şevket Evliyagil Sokak No: 1, İncek",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3065.6422598269933!2d32.697824!3d39.792583!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe2ec3aa2f3288429!2sM%C3%BCze%20Evliyagil!5e0!3m2!1str!2str!4v1655629107521!5m2!1str!2str",
+    "image": "https://tiyatrolar.com.tr/files/exhibition/i/izleyen-yuzler-1/gallery/7883/izleyen-yuzler-1-7883.jpg",
+    "category": "resim",
+    "startingDate": "2022-06-19",
+    "endDate": "2022-07-31",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": [
+      "Abidin Dino",
+      "Ali Elmacı",
+      "Anıl Saldıran",
+      "Asya Tok",
+      "Bedri Baykam"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Doğa, Bahçeler, Düşler",
+    "description": "Doğa ve insan arasındaki ilişkiyi Arkas Koleksiyonu’ndan derlenen eserler aracılığıyla tekrar gündeme taşıyan “Doğa, Bahçeler, Düşler” sergisi, İstanbul’da sanatseverlerle buluşuyor. Sergi, 04 Mart’tan itibaren İstanbul’da Elgiz Müzesi’nde izleyicilerin beğenisine sunulacak.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Sarıyer"
+    },
+    "place": "Elgiz Çağdaş Sanat Müzesi",
+    "address": "Beybi Giz Plaza Maslak",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d96195.50776374988!2d29.020505999999997!3d41.110297!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92fc736050541ca6!2sElgiz%20Museum!5e0!3m2!1str!2str!4v1655629507307!5m2!1str!2str",
+    "image": "https://tiyatrolar.com.tr/files/exhibition/d/doga-bahceler-dusler/gallery/7864/doga-bahceler-dusler-7864.jpg",
+    "category": "resim",
+    "startingDate": "2022-03-04",
+    "endDate": "2022-07-31",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": ["Lucien Arkas"]
+  },
+  {
+    "id": 9,
+    "title": "Maziye Bakma Mevzu Derin",
+    "description": "OMM’un tüm katlarına yayılacak “Maziye Bakma Mevzu Derin” birey ve toplum arasındaki ilişkide bireye biçilen rollere, toplumsal normlara dayanan alışkanlıklara ve “öteki”yi tanımlama biçimlerine odaklanıyor. Odunpazarı Modern Müze 31 sanatçıyı bir araya getirdiği, “Maziye Bakma Mevzu Derin” adlı sergisinde kolektif belleğin bir parçası olarak varlığını sürdüren insanın varoluş mücadelesinde aidiyet, uyum ve meydan okuma kavramlarını inceliyor.",
+    "city": {
+      "province": "Eskişehir",
+      "district": "Odunpazarı"
+    },
+    "place": "Odunpazarı Modern Müze",
+    "address": "Şarkiye Mahallesi, Arif Bey Sk. No:171",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1533.4426412780526!2d30.52267!3d39.764684!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ef38d5a759c164f!2sOdunpazar%C4%B1%20Modern%20M%C3%BCze%20(OMM)!5e0!3m2!1str!2str!4v1655630903172!5m2!1str!2str",
+    "image": "https://tiyatrolar.com.tr/files/exhibition/m/maziye-bakma-mevzu-derin/gallery/7739/maziye-bakma-mevzu-derin-7739.jpg",
+    "category": "resim",
+    "startingDate": "2021-12-04",
+    "endDate": "2022-09-31",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": [
+      "Ali Elmacı",
+      "Antonio Cosentino",
+      "Aydan Murtezaoğlu",
+      "Bengisu Bayrak"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Locus Solus",
+    "description": "Locus Solus, merkezine aldığı “doğa” fikrini olgular, kurgular ve duygular perspektifinden irdelemeyi amaçlıyor. Doğa ile kültürün birbirlerine nüfuz etme ve birbirlerini etkileme biçimleriyle ilgilenen sergi, aynı zamanda organik süreçler ve doğal ortamlarla insan eylemliliği ve insan elinden çıkma yapılar arasındaki kesişim alanlarını inceliyor. Sergide ilişkisel bir kavram olarak ele alınan “doğa”, yerler ile insan ve insan-olmayan varlıklar arasındaki geniş bağlantılar ağı üzerine yeniden düşünme imkânı tanıyor. ",
+    "city": {
+      "province": "İstanbul",
+      "district": "Beyoğlu"
+    },
+    "place": "ARTER",
+    "address": "Irmak Caddesi No: 13, Dolapdere",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1504.6459341975715!2d28.978677!3d41.040746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa04589ee9761d89!2sArter!5e0!3m2!1str!2str!4v1655631260234!5m2!1str!2str",
+    "image": "https://tiyatrolar.com.tr/files/exhibition/l/locus-solus-1/gallery/7890/locus-solus-1-7890.jpg",
+    "category": "resim",
+    "startingDate": "2022-03-31",
+    "endDate": "2022-12-31",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": ["Selen Ansen"]
+  },
+  {
+    "id": 11,
+    "title": "Nick Cave & The Bad Seeds",
+    "description": "İçinizi titretecek, duygu ve heyecan yüklü bir sahne performansı... Nick Cave & The Bad Seeds, 2018’de büyük heyecan yaratan konserlerinin ardından, çıkacakları ilk Avrupa turnesi kapsamında 21 Ağustos'ta İstanbul’da. Nick Cave öncesinde ise atmosfere rengini Black Country New Road verecek!",
+    "city": {
+      "province": "İstanbul",
+      "district": "Şişli"
+    },
+    "place": "Parkorman",
+    "address": "Maslak, Büyükdere Cd. No:263, 34398",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.328695722283!2d29.021471315417674!3d41.12734997928877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a8fa0fa724349e7!2zNDHCsDA3JzM4LjUiTiAyOcKwMDEnMjUuMiJF!5e0!3m2!1str!2str!4v1655631917828!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/04022022024514-nick.jpg",
+    "category": "konser",
+    "startingDate": "2022-08-31",
+    "endDate": "2022-08-31",
+    "price": {
+      "price": "paid",
+      "front": 1200,
+      "back": 950
+    },
+    "persons": ["Nick Cave", "The Bad Seeds"]
+  },
+  {
+    "id": 12,
+    "title": "Live From Ankara Fest",
+    "description": "Festival Ruhu Şehrine Geliyor. “Live From Ankara Fest” 18-19 Haziran 2022 tarihlerinden Bayhan Müzik organizasyonuyla Ankara ODTÜ MD Vişnelik Çim Amfi’de. Türkiye’nin taptaze YouTube konser kanalı “Live From İstanbul”un festival serisi bu kez Ankara’ya geliyor. İki gün sürecek olan  “Live From Ankara Fest”te alternatif ve rock sahnesinin önemli isimleri müzikseverler ile buluşacak.",
+    "city": {
+      "province": "Ankara",
+      "district": "Balgat"
+    },
+    "place": "ODTÜ Mezunları Derneği Vişnelik Tesisi",
+    "address": "ODTÜ Mezunlar Derneği Vişnelik Tesisi, 428. Sokak 100. Yıl 06530",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3061.0103758373307!2d32.790311315380215!3d39.89639997942895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x113008967b725307!2zMznCsDUzJzQ3LjAiTiAzMsKwNDcnMzMuMCJF!5e0!3m2!1str!2str!4v1655632412900!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/18042022125931-lfa_passo.jpg",
+    "category": "konser",
+    "startingDate": "2022-08-31",
+    "endDate": "2022-08-31",
+    "price": {
+      "price": "paid",
+      "front": 250,
+      "back": null
+    },
+    "persons": [
+      "BATU AKDENİZ",
+      "CAN GOX",
+      "GÖKSEL",
+      "TEOMAN",
+      "GÖKCAN SANLIMAN",
+      "MAVİ GRİ",
+      "SENA ŞENER",
+      "YÜKSEK SADAKAT",
+      "GRİPİN"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Louis Tomlinson",
+    "description": "Ülkemizde de büyük hayran kitlesine sahip İngiliz-İrlandalı müzik grubu One Direction'ın üyesi Louis Tomlinson solo projesi ile ilk kez ülkemizde! 2020 yılında ilk solo albümünü yayınlayan ve solo kariyerinde de kendisini kanıtlayan Louis Tomlinson, 30 Haziran 2022 tarihinde BITEXEN ana sponsorluğu ve TemaCC & Smiley Strawberry organizasyonu ile ilk kez İstanbul'da KüçükÇiftlik Park'ta sahne alacak.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Şişli"
+    },
+    "place": "KüçükÇiftlik Park",
+    "address": "Harbiye Mh. Kadırgalar Cd. No 4",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.190226800236!2d28.988742820143774!3d41.04296896872904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7738fc86803%3A0x1a13d9680e131720!2zS8O8w6fDvGvDp2lmdGxpayBQYXJr!5e0!3m2!1str!2str!4v1655632980788!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/04052022134307-louis_passo.jpg",
+    "category": "konser",
+    "startingDate": "2022-06-30",
+    "endDate": "2022-06-30",
+    "price": {
+      "price": "paid",
+      "front": 385,
+      "back": 275
+    },
+    "persons": ["Louis Tomlinson"]
+  },
+  {
+    "id": 14,
+    "title": "Nilüfer - Denizli",
+    "description": "Nilüfer, 24 Eylül'de Bayhan Müzik organizasyonuyla Denizli Açıkhava Sahnesi'nde konser vermeye hazırlanıyor.",
+    "city": {
+      "province": "Denizli",
+      "district": "Pamukkale"
+    },
+    "place": "Denizli Açıkhava Tiyatrosu",
+    "address": "Mehmetçik, 20020 Denizli Pamukkale/Denizli",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.6445302815046!2d29.082789314671544!3d37.75148282127342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c73f1940a69465%3A0x98140bc3a3d1e31e!2zQcOnxLFrIEhhdmEgVGl5YXRyb3N1!5e0!3m2!1str!2str!4v1655633302392!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/10062022115633-nilufer.jpg",
+    "category": "konser",
+    "startingDate": "2022-09-24",
+    "endDate": "2022-09-24",
+    "price": {
+      "price": "paid",
+      "front": 336,
+      "back": 280
+    },
+    "persons": ["Nilüfer"]
+  },
+  {
+    "id": 15,
+    "title": "Funda Arar - İzmir",
+    "description": "Funda Arar, Bayhan Müzik organizasyonuyla 26 Temmuz'da İzmir Kültürpark Açıkhava Sahnesi'nde konser vermeye hazırlanıyor.",
+    "city": {
+      "province": "İzmir",
+      "district": "Konak"
+    },
+    "place": "İzmir Kültürpark Açıkhava Tiyatrosu",
+    "address": "Şair Eşref Bulvarı No: 50",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1562.7791230048047!2d27.14568395803449!3d38.42857264611132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd8f5c0000001%3A0x3122740e16de75b2!2zQXRhdMO8cmsgQcOnxLFrIEhhdmEgVGl5YXRyb3N1!5e0!3m2!1str!2str!4v1655633623369!5m2!1str!2str",
+    "image": "https://ippasso.mediatriple.net/event/15052022161021-funda-arar-passo.jpg",
+    "category": "konser",
+    "startingDate": "2022-07-26",
+    "endDate": "2022-07-26",
+    "price": {
+      "price": "paid",
+      "front": 448,
+      "back": 280
+    },
+    "persons": ["Funda Arar"]
+  }
+]
