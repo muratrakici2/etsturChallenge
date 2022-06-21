@@ -6,9 +6,14 @@ const { Option } = Select;
 
 const Filter = ({ data, setActivity }) => {
   const [toggle, setToggle] = useState(false);
+  const [selectDate, setselectDate] = useState("");
+  const [selectPlace, setSelectPlace] = useState("");
+  const [selectCategory, setSelectCategory] = useState("");
+  const [selectCity, setSelectCity] = useState("");
 
   const place = [...new Set(data.map((i) => i.place))];
   const category = [...new Set(data.map((i) => i.category))];
+  const city = [...new Set(data.map((i) => i.city.province))];
 
   const toggleFilter = () => {
     if (toggle === true) {
@@ -18,15 +23,36 @@ const Filter = ({ data, setActivity }) => {
     }
   };
 
-  const onChange = (date, dateString) => {
-    console.log(dateString);
+  const onChange = (date) => {
+    date ? setselectDate(date.format("YYYY-MM-DD")) : setselectDate("");
   };
   const disabledDate = (current) => {
     return current && current < moment().subtract(1, "days");
   };
-  const handleChange = (value) => {
-    console.log(`selected ${value}`);
+  const filterData = () => {
+    if (
+      selectDate !== "" &&
+      selectPlace !== "" &&
+      selectCategory !== "" &&
+      selectCity !== ""
+    ) {
+      const first = data.filter(
+        (activity) =>
+          activity.place === selectPlace &&
+          activity.category === selectCategory &&
+          activity.city.province === selectCity
+      );
+      const filter = first.filter(
+        (event) =>
+          new Date(selectDate) <= new Date(event.startingDate) ||
+          new Date(selectDate) <= new Date(event.endDate)
+      );
+      setActivity(filter);
+    } else {
+      alert("Filtre Alanında Eksiklik Var");
+    }
   };
+
   return (
     <div className={styles.container}>
       <button onClick={toggleFilter} className={styles.filterButton}>
@@ -45,7 +71,7 @@ const Filter = ({ data, setActivity }) => {
             style={{
               width: 250,
             }}
-            onChange={handleChange}
+            onChange={(value) => setSelectPlace(value)}
           >
             {place.map((i, z) => (
               <Option key={z} value={i}>
@@ -58,7 +84,7 @@ const Filter = ({ data, setActivity }) => {
             style={{
               width: 250,
             }}
-            onChange={handleChange}
+            onChange={(value) => setSelectCategory(value)}
           >
             {category.map((i, z) => (
               <Option key={z} value={i}>
@@ -66,7 +92,22 @@ const Filter = ({ data, setActivity }) => {
               </Option>
             ))}
           </Select>
-          <Button className={styles.antButton}>Ara</Button>
+          <Select
+            defaultValue="Şehir Seç"
+            style={{
+              width: 250,
+            }}
+            onChange={(value) => setSelectCity(value)}
+          >
+            {city.map((i, z) => (
+              <Option key={z} value={i}>
+                {i}
+              </Option>
+            ))}
+          </Select>
+          <Button onClick={filterData} className={styles.antButton}>
+            Ara
+          </Button>
         </div>
       )}
     </div>

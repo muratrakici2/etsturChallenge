@@ -1,29 +1,10 @@
 .container{
     margin: .5rem auto;
-    width: 600px;
+    width: 700px;
     position: relative;
     cursor: pointer;
 }
-.title{
-    position: absolute;
-    background-color: rgba(147, 202, 202, 0.438);
-    width: 100%;
-    bottom: 0;
-    left: 0;
-    padding: 1rem;
-}
-.title p{
-    margin: 0;
-}
-.title p:nth-child(1){
-    font-size: 20px;
-    font-weight: 600;
-}
-.popular{
-    text-align: center;
-    font-size: 25px;
-    margin: 0;
-}
+
 .arrowLeft{
     width: 50px;
     height: 50px;
@@ -57,7 +38,8 @@
     cursor: pointer;
 }
 
-@media only screen and (max-width:599px){ /* XS */
+
+  @media only screen and (max-width:750px){ /* XS */
  
     .container{
         width: 100%;

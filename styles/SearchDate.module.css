@@ -1,0 +1,24 @@
+.date{
+    width: 100%;
+    padding: 1rem;
+    background-color: rgb(226, 226, 226);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .date p{
+    margin-bottom: 0;
+    margin-right: 1rem;
+    font-weight: 500;
+  }
+  .datePicker{
+    border-color: gray;
+    font-family: 'Poppins', sans-serif;
+  
+  }
+  .datePicker:hover{
+    border-color: black;
+  }
+  .datePicker:focus{
+   box-shadow: none !important  ;
+  }

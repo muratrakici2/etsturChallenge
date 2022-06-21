@@ -1,69 +1,68 @@
-.container{
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-bottom: 1px solid gray;
-    padding: .5rem 1rem;
-
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  padding: 0.5rem 1rem;
 }
-.filterButton{
-    border: 1px solid gray;
-    padding: 5px 1rem;
-    background-color: transparent;
-    border-radius: 2px;
-    cursor: pointer;
+.filterButton {
+  border: 1px solid gray;
+  padding: 5px 1rem;
+  background-color: transparent;
+  border-radius: 2px;
+  cursor: pointer;
 }
-.filter{
-    width: 100%;
-    overflow: hidden;
-    margin-top: .5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    -webkit-animation: scale-up-ver-top .5s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-	animation: scale-up-ver-top .5s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
-
+.filter {
+  width: 100%;
+  overflow: hidden;
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-animation: scale-up-ver-top 0.5s cubic-bezier(0.39, 0.575, 0.565, 1)
+    both;
+  animation: scale-up-ver-top 0.5s cubic-bezier(0.39, 0.575, 0.565, 1) both;
 }
-.filter > *{
-    margin-left: 1rem;
+.filter > * {
+  margin-left: 1rem;
 }
-.filter input::placeholder{
-    color: rgb(0, 0, 0);
+.filter input::placeholder {
+  color: rgb(0, 0, 0);
 }
-.antButton:hover{
-    color: black;
-    border-color: black;
+.antButton:hover {
+  color: black;
+  border-color: black;
 }
-.antButton:focus{
-    color: black;
-    border-color: black;
+.antButton:focus {
+  color: black;
+  border-color: black;
 }
 @-webkit-keyframes scale-up-ver-top {
   0% {
     -webkit-transform: scaleY(0);
-            transform: scaleY(0);
+    transform: scaleY(0);
     -webkit-transform-origin: 100% 0%;
-            transform-origin: 100% 0%;
+    transform-origin: 100% 0%;
   }
   100% {
     -webkit-transform: scaleY(1);
-            transform: scaleY(1);
+    transform: scaleY(1);
     -webkit-transform-origin: 100% 0%;
-            transform-origin: 100% 0%;
+    transform-origin: 100% 0%;
   }
 }
 @keyframes scale-up-ver-top {
   0% {
     -webkit-transform: scaleY(0);
-            transform: scaleY(0);
+    transform: scaleY(0);
     -webkit-transform-origin: 100% 0%;
-            transform-origin: 100% 0%;
+    transform-origin: 100% 0%;
   }
   100% {
     -webkit-transform: scaleY(1);
-            transform: scaleY(1);
+    transform: scaleY(1);
     -webkit-transform-origin: 100% 0%;
-            transform-origin: 100% 0%;
+    transform-origin: 100% 0%;
   }
 }

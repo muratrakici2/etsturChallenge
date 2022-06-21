@@ -1,9 +1,18 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import styles from "../styles/Header.module.css";
 import { useRouter } from 'next/router'
-const Header = ({data}) => {
+const Header = () => {
+  useEffect(() => {
+    fetch('/api/events')
+      .then((res) => res.json())
+      .then((data) => {
+        setData(data)
+      })
+  }, [])
+  
   const router = useRouter()
   const [event, setEvent] = useState([])
+  const [data, setData] = useState([])
     const searchEvent = (e) => {
         const text = e.target.value;
         const filter = data.filter(
@@ -22,12 +31,7 @@ const Header = ({data}) => {
   return (
     <>
         <header className={styles.header}>
-        <h1>Etkinlikçi</h1>
-        {/* <div className={styles.category}>
-          <p>Konser</p>
-          <p>Tiyatro</p>
-          <p>Resim</p>
-        </div> */}
+        <h1 onClick={() => router.push("/")}>Etkinlikçi</h1>
         <input
           onChange={searchEvent}
           placeholder="Etkinlik Adı - Kişi - Grup"

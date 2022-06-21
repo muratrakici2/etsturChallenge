@@ -41,7 +41,7 @@ const Popular = ({ data }) => {
       <p className={styles.popular}>Haftalık Popüler Etkinlikler</p>
       <div className={styles.container}>
         <Image
-          src={popular.image}
+          src={popular.image[0]}
           width={697}
           height={392}
           layout="responsive"

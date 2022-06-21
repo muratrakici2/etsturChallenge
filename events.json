@@ -10,8 +10,13 @@
     "place": "Tiyatro Dell'arte",
     "address": "Rasimpaşa Mh. Uzun Hafız Sk. No: 57/A Yeldeğirmeni",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1505.6871274808134!2d29.027735!3d40.995181!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab86be41d4139%3A0xec8182080739654f!2zUmFzaW1wYcWfYSwgVXp1biBIYWbEsXogU2suIE5vOjU3LCAzNDcxNiBLYWTEsWvDtnkvxLBzdGFuYnVs!5e0!3m2!1str!2str!4v1655573340491!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/04052022175503-piraye.jpg",
-    "category": "tiyatro",
+    "image": [
+      "https://ippasso.mediatriple.net/event/04052022175503-piraye.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Tiyatro",
     "startingDate": "2022-02-06",
     "endDate": "2022-02-16",
     "price": {
@@ -37,10 +42,15 @@
     "place": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
     "address": "Taşkışla Caddesi, Harbiye",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24072.39072972387!2d28.99003!3d41.046061!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa73a3d0b8b295da9!2sCemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1655575102633!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/15042022155939-taxim-tiyatro-biletleri-passo.jpg",
-    "category": "tiyatro",
-    "startingDate": "2022-07-06",
-    "endDate": "2022-07-08",
+    "image": [
+      "https://ippasso.mediatriple.net/event/15042022155939-taxim-tiyatro-biletleri-passo.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Tiyatro",
+    "startingDate": "2022-06-22",
+    "endDate": "2022-06-28",
     "price": {
       "price": "free",
       "front": null,
@@ -64,8 +74,13 @@
     "place": "Zorlu PSM",
     "address": "Zorlu Center, Levazım Mah. Koru Sok. No:2/PSM/70 Zincirlikuyu",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24064.7662288529!2d29.017279!3d41.066899!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8d8c665ab915f7de!2sZorlu%20Center!5e0!3m2!1str!2str!4v1655575422501!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/06062022171650-korkuyu-beklerken-passo-bilet.jpg",
-    "category": "tiyatro",
+    "image": [
+      "https://ippasso.mediatriple.net/event/06062022171650-korkuyu-beklerken-passo-bilet.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Tiyatro",
     "startingDate": "2022-07-06",
     "endDate": "2022-07-10",
     "price": {
@@ -91,8 +106,13 @@
     "place": "Zorlu PSM",
     "address": "Zorlu Center, Levazım Mah. Koru Sok. No:2/PSM/70 Zincirlikuyu",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24064.7662288529!2d29.017279!3d41.066899!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8d8c665ab915f7de!2sZorlu%20Center!5e0!3m2!1str!2str!4v1655575422501!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/20052022165847-aqaq.jpg",
-    "category": "tiyatro",
+    "image": [
+      "https://ippasso.mediatriple.net/event/20052022165847-aqaq.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Tiyatro",
     "startingDate": "2022-07-08",
     "endDate": "2022-07-10",
     "price": {
@@ -118,8 +138,13 @@
     "place": "Moda Sahnesi",
     "address": "Caferağa Mah. General Asım Gündüz Cad.(Bahariye Cad.) Halil Etham Sk.No: 34/2",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24093.98020667107!2d29.028518!3d40.987009!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x42b2727a24846638!2sModa%20Sahnesi!5e0!3m2!1str!2str!4v1655576243699!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/17012022222227-etik-alkol-passo.jpg",
-    "category": "tiyatro",
+    "image": [
+      "https://ippasso.mediatriple.net/event/17012022222227-etik-alkol-passo.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Tiyatro",
     "startingDate": "2022-06-08",
     "endDate": "2022-06-10",
     "price": {
@@ -127,7 +152,9 @@
       "front": 200,
       "back": 100
     },
-    "persons": ["Cansu Fırıncı"]
+    "persons": [
+      "Cansu Fırıncı"
+    ]
   },
   {
     "id": 6,
@@ -140,8 +167,13 @@
     "place": "Sakıp Sabancı Müzesi",
     "address": "Sabancı Cad. No:42 Emirgan",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d24050.613432348822!2d29.056944!3d41.105556!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa22a8eb0b445d84a!2zU2FrxLFwIFNhYmFuY8SxIE3DvHplc2k!5e0!3m2!1str!2str!4v1655628668042!5m2!1str!2str",
-    "image": "https://tiyatrolar.com.tr/files/exhibition/b/baharin-gelisi-normandiya-2020/gallery/7862/baharin-gelisi-normandiya-2020-7862.jpg",
-    "category": "resim",
+    "image": [
+      "https://tiyatrolar.com.tr/files/exhibition/b/baharin-gelisi-normandiya-2020/gallery/7862/baharin-gelisi-normandiya-2020-7862.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Resim",
     "startingDate": "2022-06-12",
     "endDate": "2022-06-17",
     "price": {
@@ -149,7 +181,9 @@
       "front": null,
       "back": null
     },
-    "persons": ["David Hockney"]
+    "persons": [
+      "David Hockney"
+    ]
   },
   {
     "id": 7,
@@ -162,8 +196,13 @@
     "place": "Müze Evliyagil",
     "address": "Turgut Özal Bulvarı Şevket Evliyagil Sokak No: 1, İncek",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3065.6422598269933!2d32.697824!3d39.792583!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe2ec3aa2f3288429!2sM%C3%BCze%20Evliyagil!5e0!3m2!1str!2str!4v1655629107521!5m2!1str!2str",
-    "image": "https://tiyatrolar.com.tr/files/exhibition/i/izleyen-yuzler-1/gallery/7883/izleyen-yuzler-1-7883.jpg",
-    "category": "resim",
+    "image": [
+      "https://tiyatrolar.com.tr/files/exhibition/i/izleyen-yuzler-1/gallery/7883/izleyen-yuzler-1-7883.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Resim",
     "startingDate": "2022-06-19",
     "endDate": "2022-07-31",
     "price": {
@@ -190,8 +229,13 @@
     "place": "Elgiz Çağdaş Sanat Müzesi",
     "address": "Beybi Giz Plaza Maslak",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d96195.50776374988!2d29.020505999999997!3d41.110297!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92fc736050541ca6!2sElgiz%20Museum!5e0!3m2!1str!2str!4v1655629507307!5m2!1str!2str",
-    "image": "https://tiyatrolar.com.tr/files/exhibition/d/doga-bahceler-dusler/gallery/7864/doga-bahceler-dusler-7864.jpg",
-    "category": "resim",
+    "image": [
+      "https://tiyatrolar.com.tr/files/exhibition/d/doga-bahceler-dusler/gallery/7864/doga-bahceler-dusler-7864.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Resim",
     "startingDate": "2022-03-04",
     "endDate": "2022-07-31",
     "price": {
@@ -199,7 +243,9 @@
       "front": null,
       "back": null
     },
-    "persons": ["Lucien Arkas"]
+    "persons": [
+      "Lucien Arkas"
+    ]
   },
   {
     "id": 9,
@@ -212,10 +258,15 @@
     "place": "Odunpazarı Modern Müze",
     "address": "Şarkiye Mahallesi, Arif Bey Sk. No:171",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1533.4426412780526!2d30.52267!3d39.764684!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6ef38d5a759c164f!2sOdunpazar%C4%B1%20Modern%20M%C3%BCze%20(OMM)!5e0!3m2!1str!2str!4v1655630903172!5m2!1str!2str",
-    "image": "https://tiyatrolar.com.tr/files/exhibition/m/maziye-bakma-mevzu-derin/gallery/7739/maziye-bakma-mevzu-derin-7739.jpg",
-    "category": "resim",
+    "image": [
+      "https://tiyatrolar.com.tr/files/exhibition/m/maziye-bakma-mevzu-derin/gallery/7739/maziye-bakma-mevzu-derin-7739.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Resim",
     "startingDate": "2021-12-04",
-    "endDate": "2022-09-31",
+    "endDate": "2022-09-30",
     "price": {
       "price": "free",
       "front": null,
@@ -239,8 +290,12 @@
     "place": "ARTER",
     "address": "Irmak Caddesi No: 13, Dolapdere",
     "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1504.6459341975715!2d28.978677!3d41.040746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa04589ee9761d89!2sArter!5e0!3m2!1str!2str!4v1655631260234!5m2!1str!2str",
-    "image": "https://tiyatrolar.com.tr/files/exhibition/l/locus-solus-1/gallery/7890/locus-solus-1-7890.jpg",
-    "category": "resim",
+    "image": [
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Resim",
     "startingDate": "2022-03-31",
     "endDate": "2022-12-31",
     "price": {
@@ -248,7 +303,9 @@
       "front": null,
       "back": null
     },
-    "persons": ["Selen Ansen"]
+    "persons": [
+      "Selen Ansen"
+    ]
   },
   {
     "id": 11,
@@ -261,8 +318,13 @@
     "place": "Parkorman",
     "address": "Maslak, Büyükdere Cd. No:263, 34398",
     "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.328695722283!2d29.021471315417674!3d41.12734997928877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a8fa0fa724349e7!2zNDHCsDA3JzM4LjUiTiAyOcKwMDEnMjUuMiJF!5e0!3m2!1str!2str!4v1655631917828!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/04022022024514-nick.jpg",
-    "category": "konser",
+    "image": [
+      "https://ippasso.mediatriple.net/event/04022022024514-nick.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Konser",
     "startingDate": "2022-08-31",
     "endDate": "2022-08-31",
     "price": {
@@ -270,7 +332,10 @@
       "front": 1200,
       "back": 950
     },
-    "persons": ["Nick Cave", "The Bad Seeds"]
+    "persons": [
+      "Nick Cave",
+      "The Bad Seeds"
+    ]
   },
   {
     "id": 12,
@@ -283,8 +348,13 @@
     "place": "ODTÜ Mezunları Derneği Vişnelik Tesisi",
     "address": "ODTÜ Mezunlar Derneği Vişnelik Tesisi, 428. Sokak 100. Yıl 06530",
     "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3061.0103758373307!2d32.790311315380215!3d39.89639997942895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x113008967b725307!2zMznCsDUzJzQ3LjAiTiAzMsKwNDcnMzMuMCJF!5e0!3m2!1str!2str!4v1655632412900!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/18042022125931-lfa_passo.jpg",
-    "category": "konser",
+    "image": [
+      "https://ippasso.mediatriple.net/event/18042022125931-lfa_passo.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Konser",
     "startingDate": "2022-08-31",
     "endDate": "2022-08-31",
     "price": {
@@ -315,8 +385,13 @@
     "place": "KüçükÇiftlik Park",
     "address": "Harbiye Mh. Kadırgalar Cd. No 4",
     "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.190226800236!2d28.988742820143774!3d41.04296896872904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7738fc86803%3A0x1a13d9680e131720!2zS8O8w6fDvGvDp2lmdGxpayBQYXJr!5e0!3m2!1str!2str!4v1655632980788!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/04052022134307-louis_passo.jpg",
-    "category": "konser",
+    "image": [
+      "https://ippasso.mediatriple.net/event/04052022134307-louis_passo.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Konser",
     "startingDate": "2022-06-30",
     "endDate": "2022-06-30",
     "price": {
@@ -324,7 +399,9 @@
       "front": 385,
       "back": 275
     },
-    "persons": ["Louis Tomlinson"]
+    "persons": [
+      "Louis Tomlinson"
+    ]
   },
   {
     "id": 14,
@@ -337,16 +414,23 @@
     "place": "Denizli Açıkhava Tiyatrosu",
     "address": "Mehmetçik, 20020 Denizli Pamukkale/Denizli",
     "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.6445302815046!2d29.082789314671544!3d37.75148282127342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c73f1940a69465%3A0x98140bc3a3d1e31e!2zQcOnxLFrIEhhdmEgVGl5YXRyb3N1!5e0!3m2!1str!2str!4v1655633302392!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/10062022115633-nilufer.jpg",
-    "category": "konser",
-    "startingDate": "2022-09-24",
-    "endDate": "2022-09-24",
+    "image": [
+      "https://ippasso.mediatriple.net/event/10062022115633-nilufer.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Konser",
+    "startingDate": "2022-07-24",
+    "endDate": "2022-07-28",
     "price": {
       "price": "paid",
       "front": 336,
       "back": 280
     },
-    "persons": ["Nilüfer"]
+    "persons": [
+      "Nilüfer"
+    ]
   },
   {
     "id": 15,
@@ -359,15 +443,159 @@
     "place": "İzmir Kültürpark Açıkhava Tiyatrosu",
     "address": "Şair Eşref Bulvarı No: 50",
     "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1562.7791230048047!2d27.14568395803449!3d38.42857264611132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd8f5c0000001%3A0x3122740e16de75b2!2zQXRhdMO8cmsgQcOnxLFrIEhhdmEgVGl5YXRyb3N1!5e0!3m2!1str!2str!4v1655633623369!5m2!1str!2str",
-    "image": "https://ippasso.mediatriple.net/event/15052022161021-funda-arar-passo.jpg",
-    "category": "konser",
-    "startingDate": "2022-07-26",
-    "endDate": "2022-07-26",
+    "image": [
+      "https://ippasso.mediatriple.net/event/15052022161021-funda-arar-passo.jpg",
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Konser",
+    "startingDate": "2022-07-25",
+    "endDate": "2022-07-27",
     "price": {
       "price": "paid",
       "front": 448,
       "back": 280
     },
-    "persons": ["Funda Arar"]
+    "persons": [
+      "Funda Arar"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Tan Taşçı",
+    "description": "Tan Taşcı, N Kolay'ın katkıları ve Bayhan Prodüksiyon organizasyonu  ile Harbiye Cemil Topuzlu Açıkhava Sahnesi'nde. N Kolay Harbiye Açıkhava Konserleri'nin biletleri Etkinlikçi'da.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Şişli"
+    },
+    "place": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0488355924585!2d28.985808284349446!3d41.04606112296891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sCemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1655826734388!5m2!1str!2str",
+    "image": [
+      "https://ippasso.mediatriple.net/event/14062022210110-tan-tasci-passo.jpg"
+    ],
+    "category": "Konser",
+    "startingDate": "2022-07-25",
+    "endDate": "2022-07-25",
+    "price": {
+      "price": "paid",
+      "front": 548,
+      "back": 380
+    },
+    "persons": [
+      "Tan Taşçı"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Il Divo",
+    "description": "Dünya'nın En Başarılı, İlk Klasik Crossover Grubu Il Divo 21 Temmuz'da Türkiye'de. Müzikseverler Çok Duygusal Bir Turnenin İstanbul Ayağına Şahitlik Edecek. Bayhan Müzik organizasyonuyla gerçekleşen 'N Kolay Harbiye Açık Hava' konserleri kapsamında İstanbul'da sahneye çıkacak olan İl Divo 21 Temmuz akşamı İstanbullularla buluşacak.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Şişli"
+    },
+    "place": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0488355924585!2d28.985808284349446!3d41.04606112296891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sCemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1655826734388!5m2!1str!2str",
+    "image": [
+      "https://ippasso.mediatriple.net/event/28052022144140-divo-passo.jpg"
+    ],
+    "category": "Konser",
+    "startingDate": "2022-07-21",
+    "endDate": "2022-07-21",
+    "price": {
+      "price": "paid",
+      "front": 2000,
+      "back": 1000
+    },
+    "persons": [
+      "Urs Buhler",
+      "Sebastien Izambard",
+      "David Miller"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Teoman",
+    "description": "Teoman, N Kolay'ın katkıları ve Bayhan Prodüksiyon organizasyonu  ile Harbiye Cemil Topuzlu Açıkhava Sahnesi'nde. N Kolay Harbiye Açıkhava Konserleri'nin biletleri Etkinlikçi'da.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Şişli"
+    },
+    "place": "Harbiye Cemil Topuzlu Açıkhava Tiyatrosu",
+    "address": "Harbiye, Taşkışla Cd. No:8, 34367",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3009.0488355924585!2d28.985808284349446!3d41.04606112296891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab77253099bb5%3A0xa73a3d0b8b295da9!2sCemil%20Topuzlu%20A%C3%A7%C4%B1k%20Hava%20Tiyatrosu!5e0!3m2!1str!2str!4v1655826734388!5m2!1str!2str",
+    "image": [
+      "https://ippasso.mediatriple.net/event/02042022204132-teoman-passo.jpg"
+    ],
+    "category": "Konser",
+    "startingDate": "2022-07-19",
+    "endDate": "2022-07-19",
+    "price": {
+      "price": "paid",
+      "front": 800,
+      "back": 500
+    },
+    "persons": [
+      "Teoman"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Seni Unutmak İstemedim ki",
+    "description": "11 yıllık bir evliliği ayakta tutmak için en fazla ne yapardınız? Mesela sırf karınızı mutlu etmek için hamile kalır mıydınız? Kadınlar aslında ne ister? Erkekler bu isteklerin ne kadarını doğru anlar? Madem evlilik uzun bir oyun o zaman haydi oynamaya başlayalım ama kurallara dikkat edin zira bazıları size çok da uymayabilir. Temaşa Gösteri Sanatları uzun ömürlü bir evliliğin tarifini sizler için yaptı.",
+    "city": {
+      "province": "İzmir",
+      "district": "Karşıyaka"
+    },
+    "place": "Bostanlı Suat Taşer Tiyatrosu",
+    "address": "Bostanlı, Hasan Ali Yücel Blv.,35540",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3124.4437474149568!2d27.09751031469494!3d38.45431558054537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bbd99685bbe4b9%3A0xca349245a356b169!2zU3VhdCBUYcWfZXIgQcOnxLFrIEhhdmEgVGl5YXRyb3N1!5e0!3m2!1str!2str!4v1655827917932!5m2!1str!2str",
+    "image": [
+      "https://ippasso.mediatriple.net/event/10062022123414-seni-unutmak-istemedimki-passo.jpg"
+    ],
+    "category": "Tiyatro",
+    "startingDate": "2022-06-28",
+    "endDate": "2022-06-28",
+    "price": {
+      "price": "paid",
+      "front": 400,
+      "back": 300
+    },
+    "persons": [
+      "Ferdi Akarnur",
+      "Kayra Şenocak",
+      "Dost Elver",
+      "Buket Dereoğlu"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Seninle Evlenir miyim?",
+    "description": "Haldun Dormen süpervizörlüğünde, Barbaros Uzunöner’in yönettiği mükemmel komedi. Şebnem Özinal ve Yosi Mizrahi’nin rol aldığı, Yılmaz Gruda ve Haydar Dümen’in sesleri ile katkı yaptıkları kahkahası bol oyun.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Şişli"
+    },
+    "place": "Cevahir Sahne - İstanbul",
+    "address": "19 Mayıs, Cevahir Alışveriş Ve Eğlence Merkezi, Kat: 2, Büyükdere Cd. No:22 D:242, 34360",
+    "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.2996597016877!2d28.990786714785322!3d41.06244202404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab7026abc5261%3A0xb74ffa08d1dab157!2sDevlet%20Tiyatrosu%20Cevahir%20Sahnesi!5e0!3m2!1str!2str!4v1655828293453!5m2!1str!2str",
+    "image": [
+      "https://ippasso.mediatriple.net/event/06122021152047-seninle_evlenirmiyim-passo.jpg"
+    ],
+    "category": "Tiyatro",
+    "startingDate": "2022-06-30",
+    "endDate": "2022-07-13",
+    "price": {
+      "price": "paid",
+      "front": 300,
+      "back": 200
+    },
+    "persons": [
+      "Haldun Dormen",
+      "Şebnem Özinal",
+      " Yosi Mizrahi"
+    ]
   }
 ]
