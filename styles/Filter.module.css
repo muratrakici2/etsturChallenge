@@ -23,9 +23,10 @@
   -webkit-animation: scale-up-ver-top 0.5s cubic-bezier(0.39, 0.575, 0.565, 1)
     both;
   animation: scale-up-ver-top 0.5s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+  flex-wrap: wrap;
 }
 .filter > * {
-  margin-left: 1rem;
+  margin: 1rem;
 }
 .filter input::placeholder {
   color: rgb(0, 0, 0);

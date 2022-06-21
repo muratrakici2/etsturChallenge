@@ -16,6 +16,7 @@
     font-family: 'Rubik Moonrocks', cursive;
     margin: 0;
     text-shadow: 0 0 3px #e09d0e, 0 0 5px #26d7e4;
+    cursor: pointer;
   }
   .category p{
    display: inline;

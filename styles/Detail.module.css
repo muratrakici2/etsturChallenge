@@ -39,6 +39,7 @@
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 5px;
+    cursor: pointer;
 }
 .address p:nth-child(2){
     font-size: 14px;
@@ -48,6 +49,14 @@
     font-size: 12px;
     font-weight: 400;
 }
+.social{
+    margin: 1rem 0;
+
+}
+.social i{
+    margin-right: 10px;
+    cursor: pointer;
+}
 @media only screen and (max-width:750px){ /* XS */
  
     .imageContainer{
@@ -55,6 +64,8 @@
     }
     .location{
         flex-direction: column-reverse;
+        margin-top: 2rem;
+        align-items: flex-start;
     }
     .iframe{
         width: 100%;

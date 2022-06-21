@@ -11,15 +11,18 @@ const SearchDate = ({ data, setActivity }) => {
   const onDate = (event) => {
     const firstDate = new Date(event[0].format("YYYY-MM-DD"));
     const secondDate = new Date(event[1].format("YYYY-MM-DD"));
-    const deneme = new Date("2022-06-24");
     const filter = data.filter(
       (event) =>
-      
-          firstDate <= new Date(event.startingDate) ||
-          firstDate <= new Date(event.endDate)
-      
+        firstDate <= new Date(event.startingDate) ||
+        firstDate <= new Date(event.endDate)
     );
-    setActivity(filter);
+    const filter2 = filter.filter(
+      (event) =>
+      secondDate >= new Date(event.startingDate)
+    );
+    setActivity(filter2);
+    console.log(filter);
+    console.log(filter2)
   };
   return (
     <div className={styles.date}>
