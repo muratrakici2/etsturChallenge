@@ -8,6 +8,7 @@ import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
 import Cart from "../components/Cart";
 import Popular from "../components/Popular";
+import { URL } from "../environment";
 
 const { RangePicker } = DatePicker;
 
@@ -55,7 +56,7 @@ function Home({ data }) {
   );
 }
 export async function getServerSideProps() {
-  const res = await fetch(`http://localhost:3000/api/events`);
+  const res = await fetch(`${URL}/api/events`);
   const data = await res.json();
 
   return { props: { data } };
