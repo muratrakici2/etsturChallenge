@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Filter from "../components/Filter";
-import moment from "moment";
 import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
 import Cart from "../components/Cart";
@@ -11,15 +10,23 @@ import Link from "next/link";
 
 function Home({ data }) {
   const [activity, setActivity] = useState(data);
-
   return (
     <div>
-      <Header/>
+      <Header />
       <SearchDate data={data} setActivity={(i) => setActivity(i)} />
       <Filter data={data} setActivity={(i) => setActivity(i)} />
       <Popular data={data} />
       <Link href="/old">
-        <p style={{marginBottom:0,float:"right",cursor:"pointer",marginRight:10}}>Geçmiş Etkinlikler</p>
+        <p
+          style={{
+            marginBottom: 0,
+            float: "right",
+            cursor: "pointer",
+            marginRight: 10,
+          }}
+        >
+          Geçmiş Etkinlikler
+        </p>
       </Link>
       {activity.length ? (
         <div className={styles.cartContainer}>

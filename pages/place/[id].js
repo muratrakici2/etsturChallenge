@@ -4,7 +4,7 @@ import Header from "../../components/Header";
 import Cart from "../../components/Cart";
 import { URL } from "../../environment";
 
-function Place({ data ,place }) {
+function Place({ data, place }) {
   const [activity, setActivity] = useState([]);
   useEffect(() => {
     const filter = data.filter((event) => event.place === place);
@@ -13,8 +13,8 @@ function Place({ data ,place }) {
 
   return (
     <div>
-      <Header/>
-      <h3 style={{fontSize:35,textAlign:"center"}}>{place}</h3>
+      <Header />
+      <h3 style={{ fontSize: 35, textAlign: "center" }}>{place}</h3>
       {activity.length ? (
         <div className={styles.cartContainer}>
           {activity.map((event, index) => (
@@ -32,7 +32,7 @@ function Place({ data ,place }) {
 export async function getServerSideProps(context) {
   const res = await fetch(`${URL}/api/events`);
   const data = await res.json();
-    const place = context.params.id
-  return { props: { data ,place } };
+  const place = context.params.id;
+  return { props: { data, place } };
 }
 export default Place;
