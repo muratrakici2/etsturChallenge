@@ -3,6 +3,8 @@
     width: 700px;
     position: relative;
     cursor: pointer;
+    border-radius: 15px;
+    overflow: hidden;
 }
 
 .arrowLeft{

@@ -26,10 +26,10 @@ const Detail = ({ data, params }) => {
             ))}
           </div>
           <p className={styles.date}>
-            {moment(data.startingDate).format("DD-MM-YYYY")} /{" "}
+            {moment(data.startingDate).format("DD-MM-YYYY")}
             {moment(data.startingDate).format("DD-MM-YYYY") !==
             moment(data.endDate).format("DD-MM-YYYY")
-              ? moment(data.endDate).format("DD-MM-YYYY")
+              ? " / " + moment(data.endDate).format("DD-MM-YYYY")
               : null}
           </p>
           <p>
@@ -61,6 +61,7 @@ const Detail = ({ data, params }) => {
               {data.city.province}/{data.city.district}
             </p>
             <div className={styles.social}>
+              <div>Etkinliği Paylaş</div>
               <Link
                 href={`https://www.facebook.com/sharer/sharer.php?u=${URL}/detail/${params}`}
               >
@@ -91,6 +92,16 @@ export async function getServerSideProps(context) {
   const res = await fetch(`${URL}/api/events/${context.params.id}`);
   const data = await res.json();
   const params = context.params.id;
-  return { props: { data, params } };
+  if (!data) {
+    return {
+      redirect: {
+        permanent: false,
+        destination: `/`,
+      },
+    };
+  }
+  return {
+    props: { data, params },
+  };
 }
 export default Detail;

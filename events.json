@@ -84,9 +84,9 @@
     "startingDate": "2022-07-06",
     "endDate": "2022-07-10",
     "price": {
-      "price": "free",
-      "front": null,
-      "back": null
+      "price": "paid",
+      "front": 300,
+      "back": 250
     },
     "persons": [
       "Yağız Can Konyalı",
@@ -281,32 +281,31 @@
   },
   {
     "id": 10,
-    "title": "Locus Solus",
-    "description": "Locus Solus, merkezine aldığı “doğa” fikrini olgular, kurgular ve duygular perspektifinden irdelemeyi amaçlıyor. Doğa ile kültürün birbirlerine nüfuz etme ve birbirlerini etkileme biçimleriyle ilgilenen sergi, aynı zamanda organik süreçler ve doğal ortamlarla insan eylemliliği ve insan elinden çıkma yapılar arasındaki kesişim alanlarını inceliyor. Sergide ilişkisel bir kavram olarak ele alınan “doğa”, yerler ile insan ve insan-olmayan varlıklar arasındaki geniş bağlantılar ağı üzerine yeniden düşünme imkânı tanıyor. ",
+    "title": "Zengin Mutfağı",
+    "description": "Hizmet etmekten başka bir şey düşünemeyen köşk çalışanları da gözlerinin önünde gelişen olaylar karşısında kayıtsız kalamayacaktır. Toplumdaki değişimden her biri kendi payına düşeni alacaktır.",
     "city": {
       "province": "İstanbul",
-      "district": "Beyoğlu"
+      "district": "Ataşehir"
     },
-    "place": "ARTER",
-    "address": "Irmak Caddesi No: 13, Dolapdere",
-    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1504.6459341975715!2d28.978677!3d41.040746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa04589ee9761d89!2sArter!5e0!3m2!1str!2str!4v1655631260234!5m2!1str!2str",
-    "image": [
-      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
-      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
-      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
-    ],
-    "category": "Resim",
-    "startingDate": "2022-03-31",
-    "endDate": "2022-12-31",
+    "place": "DasDas Sahne",
+    "address": "Ataşehir Atatürk Mahallesi, Ataşehir Bulv. Metropol İstanbul",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1505.7146725225225!2d29.122676!3d40.993975!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x157b6a54b6638981!2zTWV0cm9wb2wgxLBzdGFuYnVsIEFsxLHFn3ZlcmnFnyBNZXJrZXpp!5e0!3m2!1str!2str!4v1655893912353!5m2!1str!2str",
+    "image": [],
+    "category": "Tiyatro",
+    "startingDate": "2022-06-27",
+    "endDate": "2022-07-21",
     "price": {
       "price": "free",
       "front": null,
       "back": null
     },
     "persons": [
-      "Selen Ansen"
+      "Şener Şen",
+      "Kutay Sandıkçı",
+      "Gizem Ergün"
     ]
   },
+
   {
     "id": 11,
     "title": "Nick Cave & The Bad Seeds",
@@ -596,6 +595,60 @@
       "Haldun Dormen",
       "Şebnem Özinal",
       " Yosi Mizrahi"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Denizler Bizi Çağırdı",
+    "description": "Arzularımız kime aittir? Ailemize mi? Çevremize mi? Sisteme mi, yoksa kendimize mi? Şehirde yaşayan Muzaffer, bir gün kasabasına döner. Kardeşi Ahmet ile beraber, memleketinde arkasında bıraktığı hegemonik düzenle yeniden yüzleşir.",
+    "city": {
+      "province": "İstanbul",
+      "district": "Kadıköy"
+    },
+    "place": "Tiyatro Dell'arte",
+    "address": "Rasimpaşa Mh. Uzun Hafız Sk. No: 57/A Yeldeğirmeni",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1505.6871274808134!2d29.027735!3d40.995181!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab86be41d4139%3A0xec8182080739654f!2zUmFzaW1wYcWfYSwgVXp1biBIYWbEsXogU2suIE5vOjU3LCAzNDcxNiBLYWTEsWvDtnkvxLBzdGFuYnVs!5e0!3m2!1str!2str!4v1655573340491!5m2!1str!2str",
+    "image": [],
+    "category": "Tiyatro",
+    "startingDate": "2022-09-06",
+    "endDate": "2022-10-16",
+    "price": {
+      "price": "paid",
+      "front": 450,
+      "back": 320
+    },
+    "persons": [
+      "Tuba Hasanbey",
+      "Sinan Hacıoğlu",
+      "Cem Cingirt"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Locus Solus",
+    "description": "Locus Solus, merkezine aldığı “doğa” fikrini olgular, kurgular ve duygular perspektifinden irdelemeyi amaçlıyor. Doğa ile kültürün birbirlerine nüfuz etme ve birbirlerini etkileme biçimleriyle ilgilenen sergi, aynı zamanda organik süreçler ve doğal ortamlarla insan eylemliliği ve insan elinden çıkma yapılar arasındaki kesişim alanlarını inceliyor. Sergide ilişkisel bir kavram olarak ele alınan “doğa”, yerler ile insan ve insan-olmayan varlıklar arasındaki geniş bağlantılar ağı üzerine yeniden düşünme imkânı tanıyor. ",
+    "city": {
+      "province": "İstanbul",
+      "district": "Beyoğlu"
+    },
+    "place": "ARTER",
+    "address": "Irmak Caddesi No: 13, Dolapdere",
+    "location": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1504.6459341975715!2d28.978677!3d41.040746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa04589ee9761d89!2sArter!5e0!3m2!1str!2str!4v1655631260234!5m2!1str!2str",
+    "image": [
+      "https://cdnuploads.aa.com.tr/uploads/Contents/2018/09/29/thumbs_b_c_f8865f394145187a8dee366a4465d711.jpg",
+      "https://media-cdn.t24.com.tr/media/library/2021/10/1635344851442-nese.jpg",
+      "https://im.haberturk.com/2020/09/11/ver1599854466/2801064_810x458.jpg"
+    ],
+    "category": "Resim",
+    "startingDate": "2022-03-31",
+    "endDate": "2022-12-31",
+    "price": {
+      "price": "free",
+      "front": null,
+      "back": null
+    },
+    "persons": [
+      "Selen Ansen"
     ]
   }
 ]

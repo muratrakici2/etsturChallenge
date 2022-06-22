@@ -18,7 +18,7 @@ const Slider = ({ data }) => {
     <>
       <div className={styles.container}>
         <Image
-          src={data.image[number]}
+          src={data.image.length ? data.image[number] : "/default.png"}
           width={697}
           height={392}
           layout="responsive"

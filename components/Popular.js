@@ -54,6 +54,7 @@ const Popular = ({ data }) => {
         >
           <p>{popular.title}</p>
           <p>{popular.place}</p>
+          {popular.price.price ===  "free"?<p>Ücretsiz</p>:null}
         </div>
         <div onClick={() => change(-1)} className={styles.arrowLeft}>
           &#10094;

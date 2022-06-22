@@ -21,12 +21,10 @@ const SearchDate = ({ data, setActivity }) => {
       secondDate >= new Date(event.startingDate)
     );
     setActivity(filter2);
-    console.log(filter);
-    console.log(filter2)
+    
   };
   return (
     <div className={styles.date}>
-      <p>Tarihe Göre Ara:</p>
       <Space size={12}>
         <RangePicker
           disabledDate={disabledDate}

@@ -5,8 +5,6 @@ export default function handler(req, res) {
     if (event) {
         res.status(200).json(event)  
     }else{
-        res.status(404).json({
-            message:"Error not find id"
-        })
+        res.status(404).json(null)
     }
   }

@@ -1,10 +1,11 @@
 .date{
     width: 100%;
-    padding: 1rem;
-    background-color: rgb(226, 226, 226);
+    padding: 3rem;
+    background:url("https://dusge.com/wp-content/uploads/2020/12/Vincent-Van-Goghun-Saheseri-Yildizli-Gece-Resmi-Hakkinda-Her-Sey.jpg") ;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-size: cover;
   }
   .date p{
     margin-bottom: 0;
@@ -14,7 +15,7 @@
   .datePicker{
     border-color: gray;
     font-family: 'Poppins', sans-serif;
-  
+    
   }
   .datePicker:hover{
     border-color: black;
